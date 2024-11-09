@@ -6,7 +6,7 @@ Textos simples em markdown são interpretados como um parágrafo no HTML.
 
 ### Assistir o vídeos
 
-[![Videos do YOUTUBE](https://github.com/Oliver-prg/html/blob/main/Channerl-Youtube-Banner.jpg)](https://github.com/Oliver-prg/html/blob/main/Channerl-Youtube-Banner.jpg))](https://youtu.be/T70t3mDiwvg?si=s-lWfuHihqnR5nYI "Curso GIT e GITHUB - Personalizando o README.md com markdown")
+[![Video Youtube](https://github.com/Oliver-prg/html/blob/main/Channerl-Youtube-Banner.jpg)](https://youtu.be/T70t3mDiwvg?si=UlyziWKSpNhYvXV9 "Curso GIT e GITHUB - Personalizando o README.md com markdown ")
 
 
 ### Click no link abaixo
