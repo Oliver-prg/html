@@ -1,4 +1,9 @@
 # Linguagem HTML
+![GitHub repo size](https://img.shields.io/github/repo-size/Oliver-prg/html)
+![GitHub License](https://img.shields.io/github/license/Oliver-prg/html)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCySbdH4Tt_l5W4gQJrNqm-Q?label=Channel%20Prof%20Jose%20de%20Assis)
+
+
 ## Repositório destinado ao teste de projeto html
 Textos simples em markdown são interpretados como um parágrafo no HTML.
 
