@@ -1,7 +1,12 @@
 # Linguagem HTML
+![GitHub language count](https://img.shields.io/github/languages/count/Oliver-prg/html)
+![GitHub top language](https://img.shields.io/github/languages/top/Oliver-prg/html)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Oliver-prg/html)
 ![GitHub License](https://img.shields.io/github/license/Oliver-prg/html)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCySbdH4Tt_l5W4gQJrNqm-Q?label=Channel%20Prof%20Jose%20de%20Assis)
+
+[Repositório do Projeto de Selos de Metadados](https://shields.io/)
 
 
 ## Repositório destinado ao teste de projeto html
